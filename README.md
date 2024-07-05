@@ -1,5 +1,5 @@
 # GoodBloggy - Coming Soon
-Fetch better long-form content 
+### Fetch better long-form content 
 
 Good Bloggy simplifies and speeds up long-form content creation. Using AI models from Anthropic and a unique content creation framework, it generates impressive first drafts in minutes. What sets it apart is its ability to take a creative brief like you would give a human, ensuring the AI understands your vision. You can also incorporate blogger identities, style guides, and writing samples into the process. Good Bloggy starts with an outline based on your creative brief and then produces thoughtful, section-by-section copy, complete with expert citations.
 
