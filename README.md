@@ -19,3 +19,6 @@ Generate complete blogs with just one click. Good Bloggy writes content based on
 
 ### Store and manage your projects: 
 Keep all your creative briefs, outlines, and posts organized and easily accessible.
+
+## Technologies
+Python, Claude, Django, HTML, JavaScript
